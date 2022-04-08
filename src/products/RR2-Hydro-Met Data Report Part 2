@@ -1,0 +1,43 @@
+
+000
+SRUS51 KLWX 081544
+RR2LWX
+.B LWX 0408 Z DH1544/HGIRZ
+:
+: ALEXANDRIA TIDE
+AXTV2 DM04081406/ 0.74:             
+AXTV2 DM04081412/ 0.78:             
+AXTV2 DM04081418/ 0.82:             
+AXTV2 DM04081424/ 0.87:             
+AXTV2 DM04081430/ 0.91:             
+AXTV2 DM04081436/ 0.96:             
+AXTV2 DM04081442/ 1.01:             
+AXTV2 DM04081448/ 1.06:             
+AXTV2 DM04081454/ 1.11:             
+AXTV2 DM04081500/ 1.17:             
+AXTV2 DM04081506/ 1.22:             
+AXTV2 DM04081512/ 1.27:             
+AXTV2 DM04081518/ 1.33:             
+AXTV2 DM04081524/ 1.39:             
+AXTV2 DM04081530/ 1.45:             
+AXTV2 DM04081536/ 1.51:             
+:
+: FOUR MILE RUN TIDE
+ALEV2 DM04081342/ 0.21:             
+ALEV2 DM04081348/ 0.22:             
+ALEV2 DM04081354/ 0.24:             
+ALEV2 DM04081400/ 0.26:             
+ALEV2 DM04081406/ 0.27:             
+ALEV2 DM04081412/ 0.31:             
+ALEV2 DM04081418/ 0.33:             
+ALEV2 DM04081424/ 0.38:             
+ALEV2 DM04081430/ 0.41:             
+ALEV2 DM04081436/ 0.47:             
+ALEV2 DM04081442/ 0.52:             
+ALEV2 DM04081448/ 0.57:             
+ALEV2 DM04081454/ 0.62:             
+ALEV2 DM04081500/ 0.68:             
+ALEV2 DM04081506/ 0.75:             
+ALEV2 DM04081512/ 0.81:             
+.END
+$$

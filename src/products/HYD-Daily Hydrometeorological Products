@@ -1,0 +1,220 @@
+
+000
+SXUS51 KLWX 081457
+HYDLWX
+Daily Hydrometeorological Data Summary
+National Weather Service Baltimore MD/Washington DC
+1057 AM EDT Fri Apr 8 2022
+
+:
+:Daily Weather Observation Stations...including COOP
+:These reports are for a 24 hour period ending at the obs time shown.
+.BR LWX 0408 E DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                            Obs     Max   Min           Snow  Snow
+:ID        Location          Time    Temp  Temp   Pcpn   Fall  Depth
+:
+:Eastern West Virginia...
+:
+:Berkeley County...
+HEDW2 : Hedgesville       : DHM   /     /     /  0.32/      /     
+MRTW2 : Martinsburg COOP  : DH0700/  53 /  40 /  0.38/      /     
+MTGW2 : Martinsburg RAWS  : DH0813/  52 /  41 /  0.48/      /     
+RDTW2 : Round Top         : DHM   /     /     /  0.40/      /     
+:Grant County...
+BAYW2 : Bayard COOP       : DH0700/  47 /  29 /  0.32/   0.0/    0
+:Hampshire County...
+DELW2 : Delray            : DH0900/     /     /  0.51/      /     
+GNHW2 : Greenwood VFD     : DH0200/     /     /  0.32/      /     
+LCMW2 : Little Cacapon Mt.: DH0400/     /     /  0.36/      /     
+NATW2 : Nathaniel Mountain: DH0815/  50 /  32 /  0.29/      /     
+ROMW2 : Romney COOP       : DH0700/  52 /  32 /  0.25/     M/    M
+THKW2 : Thrasher Knob     : DH0500/     /     /     M/      /     
+:Hardy County...    
+:Jefferson County...
+BDNW2 : Bardane           : DH0900/     /     /  0.36/      /     
+SHAW2 : Shannondale       : DH0900/     /     /  0.60/      /     
+:Mineral County...
+BLMW2 : Bloomington Lake  : DH0800/  51 /  34 / /      /     
+FOUW2 : Fountain          : DH0700/     /     /  0.16/      /     
+KEYW2 : Keyser COOP       : DH0700/  53 /  32 /  0.10/   0.0/    0
+:Morgan County...
+BSGW2 : Berkeley Springs  : DH0800/     /     /     M/      /     
+CPNW2 : Ridge             : DH0800/     /     /  0.52/      /     
+PAWW2 : Paw Paw           : DH0200/     /     /     M/      /     
+UNGW2 : Unger             : DH0400/     /     /  0.32/      /     
+:Pendleton County...
+MTCW2 : Mitchell Mountain : DHM   /     /     /  0.36/      /     
+UPTW2 : Upper Tract       : DH0817/  53 /  33 /  0.27/      /     
+:
+:Western, Central, and Southern Maryland...
+:
+:Allegany County...
+CBLM2 : Cumberland COOP   : DH0700/  55 /  39 /  0.30/   0.0/    0
+FRSM2 : Frostburg COOP    : DH0700/  46 /  31 /  0.22/     M/    M
+GRDM2 : Green Ridge       : DH0819/  51 /  36 /  0.24/      /     
+CBEM2 : South Cumberland  : DH0800/     /     /  0.27/      /     
+:Anne Arundel County...
+BSLM2 : Jug Bay / Bristol : DH0800/  51 /  38 /  0.67/      /     
+CPVM2 : Chesapeake Bay Brg: DH0800/  56 /  47 /      /      /     
+:Baltimore County...
+FSKM2 : Key Bridge        : DH0800/  53 /  45 /      /      /     
+RSTM2 : Reisterstown MDEM : DH0723/  50 /  41 /     M/     M/     
+WSVM2 : Westview          : DH0700/     /     /  0.44/      /     
+:Calvert County...
+COVM2 : Cove Point Pier   : DH0800/  55 /  47 /      /      /     
+:Carroll County...
+CCLM2 : Carroll Landfill  : DH0700/     /     /  0.44/      /     
+PRDM2 : Piney Run         : DH0700/     /     /  0.72/      /     
+:Cecil County...
+CHCM2 : Chesapeake City   : DH0800/  55 /  43 /      /      /     
+FAHM2 : Fair Hill DEOS    : DH0800/  53 /  36 /  1.65/      /     
+NOEM2 : North East DEOS   : DH0800/  52 /  43 /  1.58/      /     
+:Frederick County...
+FOXM2 : Catoctin Mtn RAWS : DH0812/  47 /  38 /  0.70/      /     
+EMMM2 : Emmittsburg COOP  : DH0540/  52 /  44 /  0.75/   0.0/    0
+:Garrett County...
+KITM2 : Kitzmiller        : DH0800/     /     /  0.18/      /     
+SRDM2 : Savage River Dam  : DH0800/  50 /  34 /  0.23/     M/    M
+:Harford County...
+APG   : Aberdeen COOP     : DH0800/  51 /  41 /  1.24/   0.0/    0
+ATKM2 : Atkisson Reservoir: DH0700/     /     /  0.38/      /     
+CNWM2 : Conowingo Dam     : DH0800/     /     /  1.13/      /     
+CRGM2 : Churchville       : DH0700/     /     /  0.88/      /     
+FALM2 : Fallston          : DH0700/     /     /  0.45/      /     
+NRGM2 : Norrisville       : DH0700/     /     /  0.68/      /     
+SSQM2 : Susquehanna St Pk : DH0825/  51 /  43 /  1.05/      /     
+WRGM2 : Whiteford         : DH0700/     /     /  0.79/      /     
+:Howard County...
+ARLM2 : Alpha Ridge Lndfl.: DH0700/     /     /  0.47/      /     
+COOM2 : Cooksville        : DH0800/     /     /  0.80/      /     
+CGWM2 : Columbia Gateway  : DH0700/     /     /  0.00/      /     
+ELKM2 : Elkridge          : DH0700/     /     /  0.40/      /     
+ELYM2 : Ellicott City     : DH0700/     /     /  0.52/      /     
+FHMM2 : Hipsley Mill      : DH0800/     /     /  1.50/      /     
+LSBM2 : Lisbon            : DH0700/     /     /  0.40/      /     
+:Montgomery County...
+CKPM2 : Clarksburg        : DH0700/     /     /  0.62/      /     
+DAMM2 : Damascus Hydro Stn: DH0800/     /     /  0.27/      /     
+DMAM2 : Damascus COOP     : DH0700/  53 /  38 /  0.43/   0.0/    0
+TMPM2 : Ten Mile Creek    : DH0700/     /     /  0.61/      /     
+:Prince Georges County...
+BLDM2 : Bladensburg       : DH0700/     /     /  0.28/      /     
+CLTM2 : Calverton         : DH0700/     /     /  0.28/      /     
+CVLM2 : Cedarville RAWS   : DH0819/  55 /  37 /  0.45/      /     
+GRNM2 : Greenbelt         : DH0700/     /     /  0.24/      /     
+ACOM2 : Hyattsville       : DH0700/     /     /  0.28/      /     
+HTNM2 : Largo             : DH0700/     /     /  0.32/      /     
+UPRM2 : Upper Marlboro    : DH0700/     /     /  0.52/      /     
+:St. Mary's County...
+MECM2 : Mechanicsville    : DH0700/  58 /  39 /  0.32/ / 
+SGSM2 : Straits Point     : DH0800/  59 /  49 /  0.36/      /     
+:Washington County...
+ANBM2 : Antietam Battlefl.: DH0813/  53 /  36 /  0.53/      /     
+PDFM2 : Dam Number Five   : DH0700/     /     /  0.89/      /     
+SHRM2 : Sharpsburg COOP   : DH0700/  51 /  34 /  0.63/     M/    M
+WLLM2 : Williamsport COOP : DH0700/     /     /  0.43/      /     
+:Baltimore City...
+BLTM2 : Fort McHenry      : DH0800/  55 /  46 /      /      /     
+IHBM2 : Harbor East       : DH0300/     /     /  0.56/      /     
+NBDM2 : Northbend         : DHM   /     /     /  0.40/      /     
+:
+:District of Columbia...
+:
+NARD2 : Nat Arboretum COOP: DH0800/  55 /  43 /  0.24/     M/    M
+DALD2 : Dalecarlia COOP   : DH0800/  52 /  41 /  0.40/   0.0/    0
+WASD2 : DC SW Waterfront  : DH0800/  57 /  47 /      /      /     
+:
+:Northern and Central Virginia...
+:
+:Albemarle County...
+CRVV2 : Charlottesvl COOP : DH0800/  54 /  42 /  0.23/   0.0/    0
+:Arlington County...
+AFRV2 : Four Mile Run     : DH0800/     /     /  0.01/      /     
+:Augusta County...
+CROV2 : Sawmill Ridge     : DH0735/  51 /  38 /  0.43/      /     
+DFDV2 : Deerfield         : DH0800/     /     /     M/      /     
+STKV2 : Stokesville       : DH0800/     /     /     M/      /     
+USLV2 : Upper Sherando    : DH0800/     /     /  0.16/      /     
+:Clarke County...
+MWRV2 : Mt. Weather COOP  : DH0700/  54 /  40 /  0.64/   0.0/    0
+:Fairfax County...
+BCNV2 : Burke Centre      : DH0700/     /     /  0.36/      /     
+FFXV2 : Fairfax Govt Ctr  : DH0700/     /     /  0.32/      /     
+FVLV2 : Fairview Park     : DH0700/     /     /  0.36/      /     
+WOXV2 : Horsepen Run      : DH0700/     /     /  0.36/      /     
+PSUV2 : New Alexandria    : DH0700/     /     /  0.20/      /     
+LACV2 : Ravensworth       : DH0700/     /     /  0.32/      /     
+RNSV2 : Reston            : DH0700/     /     /  0.44/      /     
+DNLV2 : Vienna COOP       : DH0700/  50 /  37 /  0.37/   0.0/    0
+CRRV2 : Wolf Trap         : DH0700/     /     /  0.36/      /     
+:Fauquier County...
+:Highland County...
+HIGV2 : Hightown          : DH0800/     /     /  0.24/      /     
+MCOV2 : McDowell          : DH0800/     /     /     M/      /     
+MONV2 : Monterey          : DH0800/     /     /  0.32/      /     
+:King George County...
+NCDV2 : Dahlgren          : DH0800/  59 /  46 /      /      /     
+:Loudoun County...
+LSGV2 : Leesburg          : DH0800/     /     /  0.23/      /     
+LVRV2 : Lovettsville      : DH0800/     /     /  0.35/      /     
+:Madison County...
+RUCV2 : Ruckersville      : DH0800/     /     /  0.08/      /     
+SYAV2 : Syria             : DH0800/     /     /  0.16/      /     
+:Nelson County...
+AFTV2 : Afton Mountain    : DH0800/     /     /  0.36/      /     
+BRNV2 : Brent Gap         : DH0800/     /     /  0.16/      /     
+MTBV2 : Montebello        : DH0800/     /     /  0.40/      /     
+ROCV2 : Rockfish River    : DH0800/     /     /  0.20/      /     
+TYRV2 : Tye River         : DH0800/     /     /     M/      /     
+:Orange County...
+SOMV2 : Somerset COOP     : DH0800/  56 /  36 /  0.26/     M/    M
+:Page County...
+IDAV2 : Ida               : DH0800/     /     /  0.28/      /     
+LHQV2 : National Park HQ  : DH0746/  52 /  33 /  0.39/      /     
+:Prince William County...
+PWRV2 : PW Forest Park    : DH0736/  53 /  38 /  0.38/      /     
+:Rappahannock County...
+SPYV2 : Sperryville COOP  : DH0500/  53 /  36 /  0.36/     M/    M
+:Rockingham County...
+LRRV2 : Long Run Road     : DH0800/     /     /  0.52/      /     
+LYWV2 : Lynnwood          : DH0800/     /     /     M/      /     
+SFTV2 : Swift Run         : DH0800/     /     /  0.40/      /     
+:Shenandoah County...
+CAMV2 : Caroline Furnace  : DH0800/     /     /     M/      /     
+FETV2 : Fetzer Gap        : DH0800/     /     /  0.24/      /     
+FVRV2 : Fort Valley       : DH0811/  54 /  33 /  0.29/      /     
+STSV2 : Strasburg Reserv. : DH0800/     /     /     M/      /     
+:Spotsylvania County...
+MTTV2 : Motts Run WTP     : DH0800/     /     /     M/      /     
+:Warren County...
+FRRV2 : Front Royal COOP  : DH0600/  54 /  43 /  0.80/     M/    M
+LIMV2 : Limeton           : DH0800/     /     /  0.20/      /     
+MANV2 : Manassas Gap      : DH0800/     /     /     M/      /     
+:City of Alexandria... 
+ABPV2 : Boothe Park       : DH0900/     /     /  0.24/      /     
+HRVV2 : Holmes Run        : DH0700/     /     /  0.28/      /     
+:City of Manassas...
+MNNV2 : Manassas COOP     : DH0614/  52 /  41 /  0.56/      /     
+:City of Staunton...
+STAV2 : Staunton COOP     : DH0800/  65 /  37 /  0.36/   0.0/    0
+:City of Waynesboro...
+JHDV2 : Jones Hollow Dam  : DH0800/     /     /     M/      /     
+WRRV2 : Waynesboro Rife Rd: DH0800/     /     /  0.32/      /     
+:
+.END
+ 
+These data are preliminary and have not undergone final quality 
+control by the Center for Weather and Climate, part of the National 
+Centers for Environmental Information (NCEI). Therefore, these data 
+are subject to revision. Final and certified climate data can be 
+accessed at www.ncdc.noaa.gov.
+
+ 
+The data shown in this product are provided by dedicated cooperative 
+observers...the USGS...local county observation networks...Virginia 
+Tech University...the US Army Corps of Engineers...the USDA...and the
+Bureau of Land Management. The NWS thanks these cooperators for their
+vital information.
+$$
+
